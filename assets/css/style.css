@@ -1,0 +1,39 @@
+.nav {
+    background-color: #446444;
+    border-bottom: 3px solid palevioletred;
+    text-align: right;
+    padding: 10px 20px;
+}
+
+.nav > a {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px; 
+}
+
+h1, p {
+    color: #4f4846
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #e8cebf;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+input {
+    margin-bottom: 5px;
+    width: 30%;
+}
+
+form {
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 18px;
+    border: 2px solid hsl(22, 65%, 59%);
+}
